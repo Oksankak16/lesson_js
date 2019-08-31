@@ -10,7 +10,7 @@ if (youserAge>=18){
     alert("You can drink");
 }
 else {
-alert("you cant drink";)
+alert("you cant drink");
 };
 
 function addOne (value){
